@@ -1,3 +1,4 @@
 # hello-world
 Just another repository
-Trying to learn!
+
+My first lesson and experience with GitHub
